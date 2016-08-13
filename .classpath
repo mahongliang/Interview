@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/mahongliang/Desktop/jdom-2.0.6/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/SSH/mybatis-3.4.1/mybatis-3.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/SSH/mysqlconnector/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="E:/SSH/netty-5.0.0.Alpha1/jar/all-in-one/netty-all-5.0.0.Alpha1.jar"/>
+	<classpathentry kind="lib" path="E:/MavenRepository/org/msgpack/msgpack/0.6.6/msgpack-0.6.6.jar"/>
+	<classpathentry kind="lib" path="E:/MavenRepository/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar"/>
+	<classpathentry kind="lib" path="F:/002书籍/01技术/1Java/nettyBookV2/book/lib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
